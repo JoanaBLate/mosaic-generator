@@ -18,6 +18,8 @@ Here is the GodbyeHtml library in GitHub: https://github.com/JoanaBLate/goodbye-
 
 More info at https://javascript.plainenglish.io/goodbye-html-hello-canvas-part-1-92f750961666
 
+<br>
+Note: file mosaic-demo.html has all the files embedded.
 
 <br><br>
 Copyright (c) 2022 Feudal Code Limitada
