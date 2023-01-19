@@ -12,7 +12,7 @@ Demo of the GoodbyeHtml library: a web application made with only one HTML eleme
 <b>**NOT**</b> for smarthpones.
 <br><br>
 
-Here you can experiment the demo https://bobsprite.com/mosaic-demo
+Here you can experiment the demo https://storage.googleapis.com/jblate/medium/mosaic-demo.html
 
 Here is the GodbyeHtml library in GitHub: https://github.com/JoanaBLate/goodbye-html
 
